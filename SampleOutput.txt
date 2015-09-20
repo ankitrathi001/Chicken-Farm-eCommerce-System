@@ -1,0 +1,225 @@
+Chicken Farm ***** Price Change : Old Price = 1000   New Price = 781 *****
+10:14:33 : Retailer 3 placed an order of 4 Chickens @ $781
+10:14:33 : Retailer 4 placed an order of 7 Chickens @ $781
+10:14:33 : Retailer 0 placed an order of 6 Chickens @ $781
+10:14:33 : Retailer 2 placed an order of 6 Chickens @ $781
+10:14:33 : Retailer 1 placed an order of 6 Chickens @ $781
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 1
+No. of Chickens: 6, Total price: 5160.6, Time to complete: 604 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 1 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 781   New Price = 778 *****
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 2
+No. of Chickens: 6, Total price: 5160.6, Time to complete: 708 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 2 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 3
+No. of Chickens: 4, Total price: 3440.4, Time to complete: 711 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 3 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 0
+No. of Chickens: 6, Total price: 5160.6, Time to complete: 754 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 0 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 4
+No. of Chickens: 7, Total price: 6020.7, Time to complete: 772 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 4 : Your Order has been completed successfully
+10:14:34 : Retailer 0 placed an order of 4 Chickens @ $778
+10:14:34 : Retailer 1 placed an order of 3 Chickens @ $778
+10:14:34 : Retailer 4 placed an order of 8 Chickens @ $778
+10:14:34 : Retailer 2 placed an order of 5 Chickens @ $778
+10:14:34 : Retailer 3 placed an order of 3 Chickens @ $778
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 1
+No. of Chickens: 3, Total price: 2570.4, Time to complete: 518 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 1 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 2
+No. of Chickens: 5, Total price: 4284, Time to complete: 526 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 2 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 0
+No. of Chickens: 4, Total price: 3427.2, Time to complete: 561 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 0 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 4
+No. of Chickens: 8, Total price: 6854.4, Time to complete: 614 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 4 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 778   New Price = 825 *****
+No Price Cut
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 3
+No. of Chickens: 3, Total price: 2570.4, Time to complete: 814 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 3 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 825   New Price = 674 *****
+10:14:36 : Retailer 1 placed an order of 1 Chickens @ $674
+10:14:36 : Retailer 0 placed an order of 8 Chickens @ $674
+10:14:36 : Retailer 2 placed an order of 4 Chickens @ $674
+10:14:36 : Retailer 3 placed an order of 2 Chickens @ $674
+10:14:36 : Retailer 4 placed an order of 5 Chickens @ $674
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 1
+No. of Chickens: 1, Total price: 742.4, Time to complete: 432 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 1 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 3
+No. of Chickens: 2, Total price: 1484.8, Time to complete: 443 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 3 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 2
+No. of Chickens: 4, Total price: 2969.6, Time to complete: 597 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 2 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 4
+No. of Chickens: 5, Total price: 3712, Time to complete: 604 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 4 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 674   New Price = 842 *****
+No Price Cut
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 0
+No. of Chickens: 8, Total price: 5939.2, Time to complete: 771 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 0 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 842   New Price = 691 *****
+10:14:38 : Retailer 0 placed an order of 4 Chickens @ $691
+10:14:38 : Retailer 1 placed an order of 8 Chickens @ $691
+10:14:38 : Retailer 2 placed an order of 1 Chickens @ $691
+10:14:38 : Retailer 3 placed an order of 1 Chickens @ $691
+10:14:38 : Retailer 4 placed an order of 7 Chickens @ $691
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 3
+No. of Chickens: 1, Total price: 761.1, Time to complete: 425 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 3 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 2
+No. of Chickens: 1, Total price: 761.1, Time to complete: 429 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 2 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 0
+No. of Chickens: 4, Total price: 3044.4, Time to complete: 570 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 0 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 691   New Price = 644 *****
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 4
+No. of Chickens: 7, Total price: 5327.7, Time to complete: 718 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 4 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 1
+No. of Chickens: 8, Total price: 6088.8, Time to complete: 785 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 1 : Your Order has been completed successfully
+10:14:39 : Retailer 0 placed an order of 2 Chickens @ $644
+10:14:39 : Retailer 1 placed an order of 8 Chickens @ $644
+10:14:39 : Retailer 3 placed an order of 4 Chickens @ $644
+10:14:39 : Retailer 2 placed an order of 7 Chickens @ $644
+10:14:39 : Retailer 4 placed an order of 3 Chickens @ $644
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 0
+No. of Chickens: 2, Total price: 1418.8, Time to complete: 455 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 0 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 4
+No. of Chickens: 3, Total price: 2128.2, Time to complete: 506 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 4 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 2
+No. of Chickens: 7, Total price: 4965.8, Time to complete: 583 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 2 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 644   New Price = 741 *****
+No Price Cut
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 3
+No. of Chickens: 4, Total price: 2837.6, Time to complete: 718 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 3 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 1
+No. of Chickens: 8, Total price: 5675.2, Time to complete: 825 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 1 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 741   New Price = 652 *****
+10:14:41 : Retailer 3 placed an order of 4 Chickens @ $652
+10:14:41 : Retailer 4 placed an order of 6 Chickens @ $652
+10:14:41 : Retailer 0 placed an order of 2 Chickens @ $652
+10:14:41 : Retailer 2 placed an order of 6 Chickens @ $652
+10:14:41 : Retailer 1 placed an order of 3 Chickens @ $652
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 4
+No. of Chickens: 6, Total price: 4309.2, Time to complete: 470 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 4 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 3
+No. of Chickens: 4, Total price: 2872.8, Time to complete: 522 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 3 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 2
+No. of Chickens: 6, Total price: 4309.2, Time to complete: 575 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 2 : Your Order has been completed successfully
+Chicken Farm ***** Price Change : Old Price = 652   New Price = 939 *****
+No Price Cut
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 1
+No. of Chickens: 3, Total price: 2154.6, Time to complete: 685 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 1 : Your Order has been completed successfully
+********************************************************************************
+Chicken Farm: Card Authenticated
+Order processing completed for Retailer 0
+No. of Chickens: 2, Total price: 1436.4, Time to complete: 692 milliseconds
+********************************************************************************
+Chicken Farm to Retailer 0 : Your Order has been completed successfully
+

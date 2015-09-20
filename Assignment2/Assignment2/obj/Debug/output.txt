@@ -1,0 +1,26 @@
+In Main Method
+MultiCellBuffer Constructor
+ChickenFarm Constructor
+Retailer Constructor
+Retailer Constructor
+Retailer Constructor
+Retailer Constructor
+Retailer Constructor
+farmerFunc
+0 ::: 
+1 ::: 
+2 ::: 
+getOneCell : MulticellBuffer is Emtpy
+*************************************************
+changePrice ::: Old Price = 75   New Price = 50
+*************************************************
+Price Cut Event ::: Old Price = 75   New Price = 50
+chickenOnSale
+chickenOnSale : encodedString : 2KsPGQ/aJsbY0+NemMW13N7AEIdIbJzXS16ph1au2VU6LaJQK9OQyK3Y0jgMj1rRSGxKMQTEJc8=
+chickenOnSale
+chickenOnSale : encodedString : 2KsPGQ/aJsbY0+NemMW13N7AEIdIbJzXS16ph1au2VU6LaJQK9OQyK3Y0jgMj1rRSGxKMQTEJc8=
+chickenOnSale : encodedString : ZkW4XEWLUVC320QlXRlmusaAS3qZXRxSKgf4wS3OLZA6LaJQK9OQyK3Y0jgMj1rRSGxKMQTEJc8=
+chickenOnSale
+setOneCell : MulticellBuffer is Full
+setOneCell : MulticellBuffer is Full
+setOneCell : MulticellBuffer is Full
